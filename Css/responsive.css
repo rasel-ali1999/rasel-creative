@@ -1,0 +1,135 @@
+/* ============================= laptop & tab style ============================== */
+
+@media screen and (min-width: 767px) and (max-width: 1325px) {
+  #contraction-part .demo-house {
+    width: 400px;
+    height: 300px;
+  }
+  .gellary-img {
+    width: 250px;
+    height: 220px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 776px) {
+  .carousel-caption {
+    bottom: 5%;
+  }
+  .carousel-caption h1 {
+    font-size: 35px;
+  }
+  .float-right-btn {
+    float: none;
+  }
+  .mt-5 {
+    margin-top: -5rem !important;
+  }
+  .head-cap {
+    top: -45%;
+    float: right;
+  }
+  .gellary {
+    text-align: center;
+  }
+  .customer-part div .img {
+    margin-top: 15px;
+  }
+  .customer-feedback {
+    margin-top: 3rem;
+  }
+  .brand-title img {
+    margin-bottom: 15px;
+  }
+  #features ul {
+    text-align: left;
+  }
+  .reviews-part .btn {
+    margin-top: -16px;
+  }
+  .title-part .row {
+    padding: 1rem 0;
+  }
+  .contact-img img {
+    float: none;
+  }
+  #contact-section .form-email {
+    width: 88%;
+  }
+  .fotter-nav {
+    float: none;
+    text-align: center;
+  }
+  .reserve-rasel {
+    float: none;
+    text-align: center;
+  }
+  .service-part img {
+    margin-top: 15px;
+  }
+  .featured-news img {
+    margin-top: 1rem;
+  }
+  .gellary-img {
+    margin-bottom: 1rem;
+  }
+  #contraction-part .demo-house {
+    top: -15%;
+  }
+}
+
+/* ============================= mobile style ============================== */
+
+@media screen and (min-width: 360px) and (max-width: 576px) {
+  .carousel-item img {
+    height: 400px;
+    width: 100%;
+  }
+  .carousel-caption h1 {
+    font-size: 25px;
+  }
+  .top-right {
+    float: none;
+  }
+  /* .carousel-caption {
+            display: none;
+        } */
+
+  .service-part img {
+    margin-top: 15px;
+  }
+
+  .mini-work {
+    margin-top: 5rem;
+  }
+  #contraction-part .demo-house {
+    width: 500px;
+    height: 350px;
+    margin-bottom: 20%;
+  }
+  .gellary-img {
+    margin-bottom: 1rem;
+  }
+  .reviews-part .btn {
+    margin-top: -15px;
+  }
+  #contact-section form input[type="button"] {
+    float: none;
+    right: 0;
+  }
+  .para-m {
+    margin-top: 1rem;
+  }
+  .m-5 {
+    margin: 1rem !important;
+  }
+  #contraction-part video {
+    width: 330px;
+    height: 75%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .inherit {
+    display: inherit;
+  }
+}
